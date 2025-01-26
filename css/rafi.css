@@ -1,0 +1,19 @@
+nav > ul > li {
+    display:inline;
+    margin-right: 10px;
+    text-decoration: none;
+}
+nav {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 20 px;
+    box-shadow:0 2px 5px rgba(0, 0, 0, 0.2) ;
+   text-decoration-color: white;
+   text-decoration: none;
+}
+footer {
+
+}
